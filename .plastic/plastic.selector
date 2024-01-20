@@ -1,0 +1,4 @@
+repository "Economic_Monopoly@unity_FA6B2B4C5A1EFC1E2039@cloud"
+  path "/"
+    br "/main"
+    co "/main"
